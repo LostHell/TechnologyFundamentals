@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\bin\Debug\netcoreapp2.1\Students.deps.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\bin\Debug\netcoreapp2.1\Students.runtimeconfig.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\bin\Debug\netcoreapp2.1\Students.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\bin\Debug\netcoreapp2.1\Students.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\bin\Debug\netcoreapp2.1\Students.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\obj\Debug\netcoreapp2.1\Students.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\obj\Debug\netcoreapp2.1\Students.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\obj\Debug\netcoreapp2.1\Students.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\obj\Debug\netcoreapp2.1\Students.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\obj\Debug\netcoreapp2.1\Students.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Students\obj\Debug\netcoreapp2.1\Students.pdb

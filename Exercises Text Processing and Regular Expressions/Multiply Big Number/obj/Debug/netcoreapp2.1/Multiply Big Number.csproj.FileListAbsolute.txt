@@ -1,0 +1,10 @@
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Multiply Big Number\bin\Debug\netcoreapp2.1\Multiply Big Number.deps.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Multiply Big Number\bin\Debug\netcoreapp2.1\Multiply Big Number.runtimeconfig.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Multiply Big Number\bin\Debug\netcoreapp2.1\Multiply Big Number.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Multiply Big Number\bin\Debug\netcoreapp2.1\Multiply Big Number.dll
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Multiply Big Number\bin\Debug\netcoreapp2.1\Multiply Big Number.pdb
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.dll
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Multiply Big Number\obj\Debug\netcoreapp2.1\Multiply Big Number.pdb

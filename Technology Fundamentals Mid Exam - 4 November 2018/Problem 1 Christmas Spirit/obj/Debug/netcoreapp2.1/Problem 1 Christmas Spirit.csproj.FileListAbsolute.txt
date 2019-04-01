@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\bin\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.deps.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\bin\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.runtimeconfig.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\bin\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\bin\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\bin\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\obj\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\obj\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\obj\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\obj\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\obj\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Christmas Spirit\obj\Debug\netcoreapp2.1\Problem 1 Christmas Spirit.pdb

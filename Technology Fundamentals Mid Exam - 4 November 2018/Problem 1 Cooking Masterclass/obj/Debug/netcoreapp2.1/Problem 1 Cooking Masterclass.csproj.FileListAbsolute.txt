@@ -1,0 +1,10 @@
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Cooking Masterclass\bin\Debug\netcoreapp2.1\Problem 1 Cooking Masterclass.deps.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Cooking Masterclass\bin\Debug\netcoreapp2.1\Problem 1 Cooking Masterclass.runtimeconfig.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Cooking Masterclass\bin\Debug\netcoreapp2.1\Problem 1 Cooking Masterclass.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Cooking Masterclass\bin\Debug\netcoreapp2.1\Problem 1 Cooking Masterclass.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Cooking Masterclass\bin\Debug\netcoreapp2.1\Problem 1 Cooking Masterclass.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Cooking Masterclass\obj\Debug\netcoreapp2.1\Problem 1 Cooking Masterclass.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Cooking Masterclass\obj\Debug\netcoreapp2.1\Problem 1 Cooking Masterclass.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Cooking Masterclass\obj\Debug\netcoreapp2.1\Problem 1 Cooking Masterclass.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Cooking Masterclass\obj\Debug\netcoreapp2.1\Problem 1 Cooking Masterclass.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 1 Cooking Masterclass\obj\Debug\netcoreapp2.1\Problem 1 Cooking Masterclass.pdb

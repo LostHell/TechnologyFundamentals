@@ -1,0 +1,10 @@
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Replace Repeating Chars\bin\Debug\netcoreapp2.1\Replace Repeating Chars.deps.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Replace Repeating Chars\bin\Debug\netcoreapp2.1\Replace Repeating Chars.runtimeconfig.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Replace Repeating Chars\bin\Debug\netcoreapp2.1\Replace Repeating Chars.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Replace Repeating Chars\bin\Debug\netcoreapp2.1\Replace Repeating Chars.dll
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Replace Repeating Chars\bin\Debug\netcoreapp2.1\Replace Repeating Chars.pdb
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Replace Repeating Chars\obj\Debug\netcoreapp2.1\Replace Repeating Chars.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Replace Repeating Chars\obj\Debug\netcoreapp2.1\Replace Repeating Chars.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Replace Repeating Chars\obj\Debug\netcoreapp2.1\Replace Repeating Chars.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Replace Repeating Chars\obj\Debug\netcoreapp2.1\Replace Repeating Chars.dll
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Replace Repeating Chars\obj\Debug\netcoreapp2.1\Replace Repeating Chars.pdb

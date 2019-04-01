@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\obj\Debug\netcoreapp2.1\Problem 2 Bread Factory.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\obj\Debug\netcoreapp2.1\Problem 2 Bread Factory.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\obj\Debug\netcoreapp2.1\Problem 2 Bread Factory.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\obj\Debug\netcoreapp2.1\Problem 2 Bread Factory.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\bin\Debug\netcoreapp2.1\Problem 2 Bread Factory.deps.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\bin\Debug\netcoreapp2.1\Problem 2 Bread Factory.runtimeconfig.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\bin\Debug\netcoreapp2.1\Problem 2 Bread Factory.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\bin\Debug\netcoreapp2.1\Problem 2 Bread Factory.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\bin\Debug\netcoreapp2.1\Problem 2 Bread Factory.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\obj\Debug\netcoreapp2.1\Problem 2 Bread Factory.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 2 Bread Factory\obj\Debug\netcoreapp2.1\Problem 2 Bread Factory.pdb

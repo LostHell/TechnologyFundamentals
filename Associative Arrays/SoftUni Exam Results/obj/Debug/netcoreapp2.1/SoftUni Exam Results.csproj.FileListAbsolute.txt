@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\bin\Debug\netcoreapp2.1\SoftUni Exam Results.deps.json
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\bin\Debug\netcoreapp2.1\SoftUni Exam Results.runtimeconfig.json
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\bin\Debug\netcoreapp2.1\SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\bin\Debug\netcoreapp2.1\SoftUni Exam Results.dll
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\bin\Debug\netcoreapp2.1\SoftUni Exam Results.pdb
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.dll
+C:\Users\Enes\source\repos\Associative Arrays\SoftUni Exam Results\obj\Debug\netcoreapp2.1\SoftUni Exam Results.pdb

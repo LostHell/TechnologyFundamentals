@@ -1,0 +1,32 @@
+C:\Users\Enes\source\repos\WEB Application\WEB Application\bin\Debug\netcoreapp2.1\WEB Application.deps.json
+C:\Users\Enes\source\repos\WEB Application\WEB Application\bin\Debug\netcoreapp2.1\WEB Application.runtimeconfig.json
+C:\Users\Enes\source\repos\WEB Application\WEB Application\bin\Debug\netcoreapp2.1\WEB Application.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\WEB Application\WEB Application\bin\Debug\netcoreapp2.1\WEB Application.dll
+C:\Users\Enes\source\repos\WEB Application\WEB Application\bin\Debug\netcoreapp2.1\WEB Application.pdb
+C:\Users\Enes\source\repos\WEB Application\WEB Application\bin\Debug\netcoreapp2.1\WEB Application.Views.dll
+C:\Users\Enes\source\repos\WEB Application\WEB Application\bin\Debug\netcoreapp2.1\WEB Application.Views.pdb
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.RazorAssemblyInfo.cache
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.RazorAssemblyInfo.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.AssemblyInfo.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.TagHelpers.input.cache
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.TagHelpers.output.cache
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.RazorCoreGenerate.cache
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.RazorTargetAssemblyInfo.cache
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.RazorTargetAssemblyInfo.cs
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.Views.pdb
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.dll
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.pdb
+C:\Users\Enes\source\repos\WEB Application\WEB Application\obj\Debug\netcoreapp2.1\WEB Application.csproj.CopyComplete

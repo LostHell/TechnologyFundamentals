@@ -1,0 +1,10 @@
+C:\Users\Enes\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp2.1\A Miner Task.deps.json
+C:\Users\Enes\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp2.1\A Miner Task.runtimeconfig.json
+C:\Users\Enes\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp2.1\A Miner Task.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp2.1\A Miner Task.dll
+C:\Users\Enes\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp2.1\A Miner Task.pdb
+C:\Users\Enes\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp2.1\A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp2.1\A Miner Task.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp2.1\A Miner Task.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp2.1\A Miner Task.dll
+C:\Users\Enes\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp2.1\A Miner Task.pdb

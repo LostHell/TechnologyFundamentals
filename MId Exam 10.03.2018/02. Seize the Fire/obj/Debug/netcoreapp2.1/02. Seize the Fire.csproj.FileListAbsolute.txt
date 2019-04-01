@@ -1,0 +1,10 @@
+C:\Users\Enes\source\repos\MId Exam 10.03.2018\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.deps.json
+C:\Users\Enes\source\repos\MId Exam 10.03.2018\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.runtimeconfig.json
+C:\Users\Enes\source\repos\MId Exam 10.03.2018\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\MId Exam 10.03.2018\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.dll
+C:\Users\Enes\source\repos\MId Exam 10.03.2018\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.pdb
+C:\Users\Enes\source\repos\MId Exam 10.03.2018\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\MId Exam 10.03.2018\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\MId Exam 10.03.2018\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.AssemblyInfo.cs
+C:\Users\Enes\source\repos\MId Exam 10.03.2018\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.dll
+C:\Users\Enes\source\repos\MId Exam 10.03.2018\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.pdb

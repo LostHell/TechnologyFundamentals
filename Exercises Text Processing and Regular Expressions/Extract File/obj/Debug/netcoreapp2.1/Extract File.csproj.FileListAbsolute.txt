@@ -1,0 +1,10 @@
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Extract File\bin\Debug\netcoreapp2.1\Extract File.deps.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Extract File\bin\Debug\netcoreapp2.1\Extract File.runtimeconfig.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Extract File\bin\Debug\netcoreapp2.1\Extract File.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Extract File\bin\Debug\netcoreapp2.1\Extract File.dll
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Extract File\bin\Debug\netcoreapp2.1\Extract File.pdb
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Extract File\obj\Debug\netcoreapp2.1\Extract File.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Extract File\obj\Debug\netcoreapp2.1\Extract File.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Extract File\obj\Debug\netcoreapp2.1\Extract File.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Extract File\obj\Debug\netcoreapp2.1\Extract File.dll
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Extract File\obj\Debug\netcoreapp2.1\Extract File.pdb

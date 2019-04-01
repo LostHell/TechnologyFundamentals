@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\bin\Debug\netcoreapp2.1\Problem 3. Present Delivery.deps.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\bin\Debug\netcoreapp2.1\Problem 3. Present Delivery.runtimeconfig.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\bin\Debug\netcoreapp2.1\Problem 3. Present Delivery.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\bin\Debug\netcoreapp2.1\Problem 3. Present Delivery.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\bin\Debug\netcoreapp2.1\Problem 3. Present Delivery.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\obj\Debug\netcoreapp2.1\Problem 3. Present Delivery.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\obj\Debug\netcoreapp2.1\Problem 3. Present Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\obj\Debug\netcoreapp2.1\Problem 3. Present Delivery.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\obj\Debug\netcoreapp2.1\Problem 3. Present Delivery.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\obj\Debug\netcoreapp2.1\Problem 3. Present Delivery.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3. Present Delivery\obj\Debug\netcoreapp2.1\Problem 3. Present Delivery.pdb

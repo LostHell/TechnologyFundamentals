@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Associative Arrays\Courses\bin\Debug\netcoreapp2.1\Courses.deps.json
+C:\Users\Enes\source\repos\Associative Arrays\Courses\bin\Debug\netcoreapp2.1\Courses.runtimeconfig.json
+C:\Users\Enes\source\repos\Associative Arrays\Courses\bin\Debug\netcoreapp2.1\Courses.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Associative Arrays\Courses\bin\Debug\netcoreapp2.1\Courses.dll
+C:\Users\Enes\source\repos\Associative Arrays\Courses\bin\Debug\netcoreapp2.1\Courses.pdb
+C:\Users\Enes\source\repos\Associative Arrays\Courses\obj\Debug\netcoreapp2.1\Courses.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Associative Arrays\Courses\obj\Debug\netcoreapp2.1\Courses.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Associative Arrays\Courses\obj\Debug\netcoreapp2.1\Courses.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Associative Arrays\Courses\obj\Debug\netcoreapp2.1\Courses.dll
+C:\Users\Enes\source\repos\Associative Arrays\Courses\obj\Debug\netcoreapp2.1\Courses.pdb
+C:\Users\Enes\source\repos\Associative Arrays\Courses\obj\Debug\netcoreapp2.1\Courses.csprojAssemblyReference.cache

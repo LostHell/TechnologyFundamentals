@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\bin\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.deps.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\bin\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.runtimeconfig.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\bin\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\bin\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.dll
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\bin\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.pdb
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\obj\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\obj\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\obj\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\obj\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\obj\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.dll
+C:\Users\Enes\source\repos\Exercises Text Processing and Regular Expressions\Tech Module Mid Exam - The Final Quest\obj\Debug\netcoreapp2.1\Tech Module Mid Exam - The Final Quest.pdb

@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\bin\Debug\netcoreapp2.1\Teamwork projects.deps.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\bin\Debug\netcoreapp2.1\Teamwork projects.runtimeconfig.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\bin\Debug\netcoreapp2.1\Teamwork projects.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\bin\Debug\netcoreapp2.1\Teamwork projects.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\bin\Debug\netcoreapp2.1\Teamwork projects.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Teamwork projects\obj\Debug\netcoreapp2.1\Teamwork projects.pdb

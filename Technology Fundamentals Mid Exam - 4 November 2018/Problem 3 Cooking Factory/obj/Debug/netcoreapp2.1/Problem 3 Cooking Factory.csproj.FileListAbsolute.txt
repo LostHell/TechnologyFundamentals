@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\bin\Debug\netcoreapp2.1\Problem 3 Cooking Factory.deps.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\bin\Debug\netcoreapp2.1\Problem 3 Cooking Factory.runtimeconfig.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\bin\Debug\netcoreapp2.1\Problem 3 Cooking Factory.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\bin\Debug\netcoreapp2.1\Problem 3 Cooking Factory.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\bin\Debug\netcoreapp2.1\Problem 3 Cooking Factory.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\obj\Debug\netcoreapp2.1\Problem 3 Cooking Factory.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\obj\Debug\netcoreapp2.1\Problem 3 Cooking Factory.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\obj\Debug\netcoreapp2.1\Problem 3 Cooking Factory.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\obj\Debug\netcoreapp2.1\Problem 3 Cooking Factory.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\obj\Debug\netcoreapp2.1\Problem 3 Cooking Factory.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Cooking Factory\obj\Debug\netcoreapp2.1\Problem 3 Cooking Factory.csprojAssemblyReference.cache

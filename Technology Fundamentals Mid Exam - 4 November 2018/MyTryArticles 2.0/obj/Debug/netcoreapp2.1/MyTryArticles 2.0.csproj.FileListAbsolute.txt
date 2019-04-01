@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\bin\Debug\netcoreapp2.1\MyTryArticles 2.0.deps.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\bin\Debug\netcoreapp2.1\MyTryArticles 2.0.runtimeconfig.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\bin\Debug\netcoreapp2.1\MyTryArticles 2.0.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\bin\Debug\netcoreapp2.1\MyTryArticles 2.0.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\bin\Debug\netcoreapp2.1\MyTryArticles 2.0.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\obj\Debug\netcoreapp2.1\MyTryArticles 2.0.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\obj\Debug\netcoreapp2.1\MyTryArticles 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\obj\Debug\netcoreapp2.1\MyTryArticles 2.0.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\obj\Debug\netcoreapp2.1\MyTryArticles 2.0.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\obj\Debug\netcoreapp2.1\MyTryArticles 2.0.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\MyTryArticles 2.0\obj\Debug\netcoreapp2.1\MyTryArticles 2.0.pdb

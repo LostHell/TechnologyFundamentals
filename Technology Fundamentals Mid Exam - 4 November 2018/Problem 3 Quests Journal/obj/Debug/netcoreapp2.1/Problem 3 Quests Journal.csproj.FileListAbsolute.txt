@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\bin\Debug\netcoreapp2.1\Problem 3 Quests Journal.deps.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\bin\Debug\netcoreapp2.1\Problem 3 Quests Journal.runtimeconfig.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\bin\Debug\netcoreapp2.1\Problem 3 Quests Journal.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\bin\Debug\netcoreapp2.1\Problem 3 Quests Journal.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\bin\Debug\netcoreapp2.1\Problem 3 Quests Journal.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\obj\Debug\netcoreapp2.1\Problem 3 Quests Journal.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\obj\Debug\netcoreapp2.1\Problem 3 Quests Journal.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\obj\Debug\netcoreapp2.1\Problem 3 Quests Journal.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\obj\Debug\netcoreapp2.1\Problem 3 Quests Journal.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\obj\Debug\netcoreapp2.1\Problem 3 Quests Journal.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Mid Exam - 4 November 2018\Problem 3 Quests Journal\obj\Debug\netcoreapp2.1\Problem 3 Quests Journal.csprojAssemblyReference.cache

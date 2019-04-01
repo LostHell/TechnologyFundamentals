@@ -1,0 +1,11 @@
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\bin\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.deps.json
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\bin\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.runtimeconfig.json
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\bin\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\bin\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\bin\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.pdb
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\obj\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\obj\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\obj\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\obj\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\obj\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.dll
+C:\Users\Enes\source\repos\Technology Fundamentals Final Exam 16 Dec 2018\Technology Fundamentals Final Exam 16 Dec 2018\obj\Debug\netcoreapp2.1\Technology Fundamentals Final Exam 16 Dec 2018.pdb
